@@ -189,7 +189,7 @@ def run():
 	root.resizable(False, False)
 	root.overrideredirect(True)
 	#root.geometry("48x48")
-	root.title("Text Widget Example")
+	root.title("Strike Shot Cooldown")
 	#root.columnconfigure(0, weight=4)
 	#root.columnconfigure(1, weight=1)
 	#root.columnconfigure(1, weight=20)
